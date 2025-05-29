@@ -6,12 +6,6 @@ This project demonstrates how Named Entity Recognition (NER) works using a simpl
 
 We used Python and spaCy to extract named entities from a text, and then visualized the results using HTML. The file example.html contains the output showing entities directly in the browser.
 
-## 🔍 What’s Inside
-
-example.html: This file shows the final NER results with highlighted entities. For instance, the word "America" is detected as a geographical location (GPE - Geo-Political Entity).
-
-The HTML was generated using a Python script with spaCy's built-in displacy visualizer.
-
 ## What is NER?
 
 NER (Named Entity Recognition) is a part of NLP (Natural Language Processing) that identifies specific kinds of words in a sentence, such as:
